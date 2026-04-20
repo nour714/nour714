@@ -43,29 +43,23 @@ const nourWael = {
   portfolio: "https://codebynour.vercel.app/",
   passion: "Building clean & interactive UI",
 };
-📌 Featured Projects
-🔹 Portfolio Website
+```
 
-🚀 Live Demo: https://codebynour.vercel.app/
+---
 
-💻 Code: https://github.com/nour714/portfolio
+## 📊 Profile Preview
 
-🔹 Project 2
+<div align="center">
 
-🚀 Live Demo: (ضع الرابط هنا)
-💻 Code: (ضع الرابط هنا)
+<img src="https://raw.githubusercontent.com/nour714/profile-summary-cards/master/profile-summary-card-output/github_dark/3-stats.svg" width="32%">
+<img src="https://raw.githubusercontent.com/nour714/profile-summary-cards/master/profile-summary-card-output/github_dark/1-repos-per-language.svg" width="32%">
+<img src="https://raw.githubusercontent.com/nour714/profile-summary-cards/master/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="32%">
 
-🔹 Project 3
+</div>
 
-🚀 Live Demo: (ضع الرابط هنا)
-💻 Code: (ضع الرابط هنا)
+<details>
+  <summary>More Details</summary>
 
-🌐 Connect with me
-🌍 Portfolio: https://codebynour.vercel.app/
-💼 LinkedIn: (ضع لينك لينكدإن هنا)
-📬 Email: your@email.com
-💬 Telegram: https://t.me/nour714
-📊 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nour714&show_icons=true&theme=tokyonight" width="45%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=nour714&theme=tokyonight" width="45%"/> </div>
-📊 Profile Preview
-<div align="center"> <img src="https://raw.githubusercontent.com/nour714/profile-summary-cards/master/profile-summary-card-output/github_dark/3-stats.svg" width="32%"> <img src="https://raw.githubusercontent.com/nour714/profile-summary-cards/master/profile-summary-card-output/github_dark/1-repos-per-language.svg" width="32%"> <img src="https://raw.githubusercontent.com/nour714/profile-summary-cards/master/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="32%"> </div> <details> <summary>More Details</summary> <img src="https://raw.githubusercontent.com/nour714/profile-summary-cards/master/profile-summary-card-output/github_dark/0-profile-details.svg"> </details>
+<img src="https://raw.githubusercontent.com/nour714/profile-summary-cards/master/profile-summary-card-output/github_dark/0-profile-details.svg">
+
+</details>

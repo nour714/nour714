@@ -50,11 +50,19 @@ const nourWael = {
 ## 📊 Profile Preview
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/nour714/profile-summary-cards/master/profile-summary-card-output/github_dark/3-stats.svg" width="32%">
-<img src="https://raw.githubusercontent.com/nour714/profile-summary-cards/master/profile-summary-card-output/github_dark/1-repos-per-language.svg" width="32%">
-<img src="https://raw.githubusercontent.com/nour714/profile-summary-cards/master/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="32%">
-
+<!-- GitHub Stats & Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nour714&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=61dafb&icon_color=f7df1e" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nour714&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=61dafb" width="48%" />
+</p>
+<!-- Streak Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nour714&theme=tokyonight&hide_border=true&background=0d1117&ring=61dafb&fire=f7df1e" width="97%" />
+</p>
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nour714&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=61dafb&line=61dafb" width="97%" />
+</p>
 </div>
 
 <details>
